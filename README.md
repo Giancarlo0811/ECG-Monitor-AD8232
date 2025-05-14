@@ -14,7 +14,7 @@ Proyecto desarrollado como parte de la asignatura EC3083 Taller de Equipos Elect
 ## 📸 Imágenes
 
 ## 📂 Documentación completa
-Análisis teórico detallado en:
+Para un análisis teórico detallado descargar:
 [Presentación PDF](/Documentos/Presentacion_ECG_Monitor_AFE_AD8232.pdf)
 
 ## ⚠️ Disclaimer
