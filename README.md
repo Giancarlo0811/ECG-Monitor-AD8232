@@ -8,7 +8,7 @@ Proyecto desarrollado como parte de la asignatura EC3083 Taller de Equipos Elect
 - **Herramientas**: Proteus (esquemático + PCB).
 - **Características clave**:
     - Monitor de frecuencia cardíaca analógico de una sola derivación (Single Lead).
-    - PCB layout y modelo 3D.
+    - 2-layer PCB layout y modelo 3D.
     - BOM (Bill of Materials/Lista de Materiales) con análisis de costo.
 
 ## 📸 Imágenes
