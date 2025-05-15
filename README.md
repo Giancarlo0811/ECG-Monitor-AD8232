@@ -10,7 +10,7 @@ Proyecto desarrollado como parte de la asignatura EC3083 Taller de Equipos Elect
     - Monitor de frecuencia cardíaca analógico de una sola derivación (Single Lead).
     - Analog Front End (AFE) TI AD8232.
     - 2-layer PCB layout y modelo 3D.
-    - BOM (Bill of Materials) completo con análisis de costo.
+    - BOM (Bill of Materials) completo.
 
 ## 📸 Simulación
 
