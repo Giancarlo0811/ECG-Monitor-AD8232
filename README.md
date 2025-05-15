@@ -20,7 +20,9 @@ Proyecto desarrollado como parte de la asignatura EC3083 Taller de Equipos Elect
 ![alt text](./Imagenes/Bode.PNG)
 
 Caso pasa bajo: fc = 43.6 Hz
+
 Caso pasa alto: fc = 0.445 Hz.
+
 Avd = 59,1 dB frecuencias medias
 
 ### Vid (ECG simulado 0.625 mVp) y Vo (OUT)
