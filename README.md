@@ -20,8 +20,6 @@ Diseño de Monitor ECG (Electrocardiograma) de una sola derivación (Single Lead
 ![alt text](./Imagenes/Esquematico.PNG)
 
 ## 📸 Simulación
-
-### Esquemático para simulación
 ![alt text](./Imagenes/Esquematico_Simulacion.PNG)
 
 ### Bode de amplitud y fase de la ganancia modo diferencial
