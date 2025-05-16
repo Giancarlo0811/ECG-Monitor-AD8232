@@ -13,7 +13,7 @@ Diseño de Monitor ECG (Electrocardiograma) de una sola derivación (Single Lead
     - **Analog Front End (AFE)**: TI AD8232.
     - **Acondicionamiento de señal**: filtro pasabanda 0.445-43.6 Hz (simulado en Proteus).
     - **Ganancia media banda**: 59.1 dB (simulado en Proteus).
-    - **Diseño PCB**: 2-layer layout.
+    - **Diseño PCB**: 4-layer layout.
     - **Bill of Materials (BOM)**: Lista de componentes completa con costos.
 
 ## 📸 Simulación
