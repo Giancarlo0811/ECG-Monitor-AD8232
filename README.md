@@ -1,16 +1,19 @@
 # ECG-Monitor-AD8232
-Diseño de ECG (Electrocardiograma) basado en el AFE TI AD8232.
+Diseño de Monitor ECG (Electrocardiograma) de una sola derivación (Single Lead) basado en el AFE TI AD8232.
 
 ## 📚 Proyecto Académico
-Proyecto desarrollado como parte de la asignatura EC3083 Taller de Equipos Electrónicos en la Universidad Simón Bolívar.
+*Proyecto desarrollado como parte de la asignatura ***EC3083 Taller de Equipos Electrónicos*** en la Universidad Simón Bolívar.*
+**Objetivo**: Diseñar un circuito ECG con esquemático, PCB layout y análisis teórico.
 
 ## 🛠️ Detalles Técnicos
-- **Herramientas**: Proteus (esquemático + PCB).
+- **Herramientas**:
+    - **Proteus**: Esquemático, simulación y PCB.
 - **Características clave**:
-    - Monitor de frecuencia cardíaca analógico de una sola derivación (Single Lead).
-    - Analog Front End (AFE) TI AD8232.
-    - 2-layer PCB layout y modelo 3D.
-    - BOM (Bill of Materials) completo.
+    - **Analog Front End (AFE)**: TI AD8232.
+    - **Acondicionamiento de señal**: filtro pasabanda 0.445-43.6 Hz (simulado en Proteus).
+    - **Ganancia media banda**: 59.1 dB (simulado en Proteus).
+    - **Diseño PCB**: 2-layer layout.
+    - **Bill of Materials (BOM)**: Lista de componentes completa con costos.
 
 ## 📸 Simulación
 
