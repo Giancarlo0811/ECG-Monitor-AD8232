@@ -3,6 +3,7 @@ Diseño de Monitor ECG (Electrocardiograma) de una sola derivación (Single Lead
 
 ## 📚 Proyecto Académico
 *Proyecto desarrollado como parte de la asignatura ***EC3083 Taller de Equipos Electrónicos*** en la Universidad Simón Bolívar.*
+
 **Objetivo**: Diseñar un circuito ECG con esquemático, PCB layout y análisis teórico.
 
 ## 🛠️ Detalles Técnicos
