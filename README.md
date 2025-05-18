@@ -30,7 +30,7 @@ Diseño de Monitor ECG (Electrocardiograma) de una sola derivación (Single Lead
 
 Caso pasa bajo: fc = 43.6 Hz
 
-Caso pasa alto: fc = 0.445 Hz.
+Caso pasa alto: fc = 0.445 Hz
 
 Avd = 59,1 dB frecuencias medias
 
