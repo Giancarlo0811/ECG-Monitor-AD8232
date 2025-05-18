@@ -38,9 +38,9 @@ Avd = 59,1 dB frecuencias medias
 ![alt text](./Imagenes/ECG_simulado.PNG)
 
 ## 📋 BOM (Bill of Materials)
-[Descargar BOM](./Imagenes/BOM.PNG)
+[Descargar BOM](./Documentos/BOM_Monitor_ECG_AFE_AD8232.xlsx)
 
-![alt text](./Documentos/BOM_Monitor_ECG_AFE_AD8232.xlsx)
+![alt text](./Imagenes/BOM.PNG)
 
 ## 📂 Documentación completa
 Para un análisis teórico detallado descargar:
