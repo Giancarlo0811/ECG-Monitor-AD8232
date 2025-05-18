@@ -22,10 +22,10 @@ Diseño de Monitor ECG (Electrocardiograma) de una sola derivación (Single Lead
 ![alt text](./Imagenes/PCB_front.PNG)
 ![alt text](./Imagenes/PCB_back.PNG)
 
-## 📸 Simulación
+## 📊 Simulación
 ![alt text](./Imagenes/Esquematico_Simulacion.PNG)
 
-### Bode de amplitud y fase de la ganancia modo diferencial
+### 📈 Bode de amplitud y fase de la ganancia modo diferencial
 ![alt text](./Imagenes/Bode.PNG)
 
 Caso pasa bajo: fc = 43.6 Hz
@@ -34,7 +34,7 @@ Caso pasa alto: fc = 0.445 Hz.
 
 Avd = 59,1 dB frecuencias medias
 
-### Vid (ECG simulado 0.625 mVp) y Vo (OUT)
+### 📈 Vid (ECG simulado 0.625 mVp) y Vo (OUT)
 ![alt text](./Imagenes/ECG_simulado.PNG)
 
 ## 📋 BOM (Bill of Materials)
