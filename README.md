@@ -18,6 +18,8 @@ Diseño de Monitor ECG (Electrocardiograma) de una sola derivación (Single Lead
 
 ## 📸 Esquemático + PCB
 ![alt text](./Imagenes/Esquematico.PNG)
+![alt text](./Imagenes/PCB_front.PNG)
+![alt text](./Imagenes/PCB_back.PNG)
 
 ## 📸 Simulación
 ![alt text](./Imagenes/Esquematico_Simulacion.PNG)
