@@ -14,10 +14,11 @@ Diseño de Monitor ECG (Electrocardiograma) de una sola derivación (Single Lead
     - **Acondicionamiento de señal**: filtro pasabanda 0.445-43.6 Hz (simulado en Proteus).
     - **Ganancia media banda**: 59.1 dB (simulado en Proteus).
     - **Diseño PCB**: 2-layer layout.
-    - **Bill of Materials (BOM)**: Lista de componentes completa con costos. [Descargar BOM](./Documentos/BOM_Monitor_ECG_AFE_AD8232.xlsx)
+    - **Bill of Materials (BOM)**: Lista de componentes completa con costos.
 
 ## 📸 Esquemático + PCB
 ![alt text](./Imagenes/Esquematico.PNG)
+
 ![alt text](./Imagenes/PCB_front.PNG)
 ![alt text](./Imagenes/PCB_back.PNG)
 
@@ -35,6 +36,11 @@ Avd = 59,1 dB frecuencias medias
 
 ### Vid (ECG simulado 0.625 mVp) y Vo (OUT)
 ![alt text](./Imagenes/ECG_simulado.PNG)
+
+## 📋 BOM (Bill of Materials)
+[Descargar BOM](./Documentos/BOM_Monitor_ECG_AFE_AD8232.xlsx)
+
+![alt text](./Documentos/BOM_Monitor_ECG_AFE_AD8232.xlsx)
 
 ## 📂 Documentación completa
 Para un análisis teórico detallado descargar:
