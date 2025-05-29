@@ -30,7 +30,7 @@ Diseño de Monitor ECG (Electrocardiograma) de una sola derivación (Single Lead
 
 ![alt text](./Imagenes/Layout_Kicad.PNG)
 
-![alt text](./Imagenes/PCB_front_kicad.PNG)
+![alt text](./Imagenes/PCB_front_kicad8.PNG)
 ![alt text](./Imagenes/PCB_back_kicad.PNG)
 
 ## 📊 Simulación
