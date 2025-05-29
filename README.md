@@ -9,6 +9,7 @@ Diseño de Monitor ECG (Electrocardiograma) de una sola derivación (Single Lead
 ## 🛠️ Detalles Técnicos
 - **Herramientas**:
     - **Proteus**: Esquemático, simulación y PCB.
+    - **KiCad**: Esquemático y PCB.
 - **Características clave**:
     - **Analog Front End (AFE)**: TI AD8232.
     - **Acondicionamiento de señal**: filtro pasabanda 0.445-43.6 Hz (simulado en Proteus).
@@ -17,10 +18,20 @@ Diseño de Monitor ECG (Electrocardiograma) de una sola derivación (Single Lead
     - **Bill of Materials (BOM)**: Lista de componentes completa con costos.
 
 ## 📸 Esquemático + PCB
+
+### Proteus
 ![alt text](./Imagenes/Esquematico.PNG)
 
 ![alt text](./Imagenes/PCB_front.PNG)
 ![alt text](./Imagenes/PCB_back.PNG)
+
+### KiCad
+![alt text](./Imagenes/Esquematico_kicad.PNG)
+
+![alt text](./Imagenes/Layout_Kicad.PNG)
+
+![alt text](./Imagenes/PCB_front_kicad.PNG)
+![alt text](./Imagenes/PCB_back_kicad.PNG)
 
 ## 📊 Simulación
 ![alt text](./Imagenes/Esquematico_Simulacion.PNG)
